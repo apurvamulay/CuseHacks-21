@@ -17,7 +17,7 @@ $ pip install torchvision
 ## Usage
 
 ```bash
-Search Variable ```input_to_model``` and set it to a random phrase.
+Search Variable **input_to_model** and set it to a random phrase.
 In google collab set runtime -> change runtime -> GPU
 ```
 
