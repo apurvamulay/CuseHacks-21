@@ -29,7 +29,7 @@ Original notebook [![Open In Colab][colab-badge]][colab-notebook]
 
 ## Citations
 
-```Git Repository: Lucid Rain [https://github.com/lucidrains/big-sleep]
+```Git Repository: Lucid Rain [https://github.com/lucidrains/big-sleep]```
 
 ```bibtex
 @misc{unpublished2021clip,
