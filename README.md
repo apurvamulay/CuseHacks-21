@@ -27,7 +27,7 @@ Original notebook [![Open In Colab][colab-badge]][colab-notebook]
 [colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
 
 
-## Citations
+## References and Citations
 
 ### Git Repository <a href="https://github.com/lucidrains/big-sleep"> Lucid Rain</a>
 
